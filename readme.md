@@ -22,3 +22,14 @@
 - [ ] Mich mehr mit dem programmieren befassen
 - [ ] Mir schonmal eine Grundbasis aufbauen
 
+Arbeitspackete für den # 08.09.23
+
+
+- [ ] Für die nächste Woche möchte ich sicherstellen das man Zahlen in meinem Taschenrechner eingeben kann.
+- [ ] Auch möchte ich den Taschenrechner besser designen.
+- [ ] Sobald eine Operationszahl eingegeben wird soll die Zahl die davor steht gelöscht werden und man die 2te Zahl eingeben kann.
+- [ ] Sich umschauen wie man ein Spiel wie Snake erstellen kann.
+
+
+
+
