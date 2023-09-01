@@ -18,7 +18,7 @@
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `A`  | `Ich habe Heute Schule aus`      |
 
-- [ ] Wenn mir nichts einfäält, dann Modul weiterarbeiten
+- [ ] Wenn mir nichts einfält, dann Modul weiterarbeiten
 - [ ] Mich mehr mit dem programmieren befassen
 - [ ] Mir schonmal eine Grundbasis aufbauen
 
