@@ -22,13 +22,23 @@
 - [ ] Mich mehr mit dem programmieren befassen
 - [ ] Mir schonmal eine Grundbasis aufbauen
 
- # 08.09.23 Arbeitspackete
+ # 15.09.23 Arbeitspackete
 
 
 - [ ] Für die nächste Woche möchte ich sicherstellen das man Zahlen in meinem Taschenrechner eingeben kann.
 - [ ] Auch möchte ich den Taschenrechner besser designen.
 - [ ] Sobald eine Operationszahl eingegeben wird soll die Zahl die davor steht gelöscht werden und man die 2te Zahl eingeben kann.
 - [ ] Sich umschauen wie man ein Spiel wie Snake erstellen kann.
+
+
+
+
+## Leitsatz
+
+ Für das nächste mal fokusiere ich mich ganz auf den Rechner. Heute hab ich ihn nicht ganz fertig geschafft weil ich mich selber noch dafür entschieden habe Modul 319 zu machen.
+ Was ich aber auch nicht komplett vergessen darf ist das Snake Spiel das ich selber auf Windows Forms App oder Console App.
+ Was ich aber bis jetzt geschafft habe ist das Grobe Design und die Zahlen. (67 Wörter)
+ 
 
 
 
