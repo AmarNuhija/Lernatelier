@@ -19,8 +19,8 @@
 | Programm in VS gestartet | `A`  | `Ich habe Heute Schule aus`      |
 
 - [x] Wenn mir nichts einfält, dann Modul weiterarbeiten
-- [ ] Mich mehr mit dem programmieren befassen
-- [ ] Mir schonmal eine Grundbasis aufbauen
+- [x] Mich mehr mit dem programmieren befassen
+- [x] Mir schonmal eine Grundbasis aufbauen
 
  # 15.09.23 Arbeitspackete
 
