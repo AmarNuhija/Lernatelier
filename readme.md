@@ -22,7 +22,7 @@
 - [ ] Mich mehr mit dem programmieren befassen
 - [ ] Mir schonmal eine Grundbasis aufbauen
 
-Arbeitspackete für den # 08.09.23
+ # 08.09.23
 
 
 - [ ] Für die nächste Woche möchte ich sicherstellen das man Zahlen in meinem Taschenrechner eingeben kann.
