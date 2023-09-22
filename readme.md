@@ -63,16 +63,30 @@ weil ich so lange am Modul 431 hang. Doch jetzt werde ich wohl hoffentlich keine
 
 In diesem Quartal habe ich schlicht mit der Stoppuhr angefangen. Ich wurde durch das Modul 319 inspiriert, weil wir dort einen PAP als Stoppuhr machen mussten. Diese Idee fand ich sehr gut und auch spannend, weil ich es selbst auch noch nie gemacht habe und selber einmal diese Erfahrung haben wollte. Mein nächster Plan war der Taschenrechner. Der Taschenrechner war ein kleines Stück schwieriger, weil es am Anfang mit dem Dividieren nicht funktioniert hat. Heute habe ich es immer noch nicht hingekriegt zu lösen aber es werden wenigstens Resultate ausgegeben, nur noch nicht mit Kommazahlen. Hochzahlen konnte ich auch nicht mit einbeziehen, weil ich es gar nicht verstanden habe. Sonst gehören noch die einzelnen Aufträge dazu, die wir in M319 hatten.(121 Wörter)
 
+
+# Verbesserungs-Vorschlag (VBV's)
+
+Zu den Verbesserungsvorschlägen gehören Kriterien von meiner Seite aus wie z.B eine Aufgabe beginnen und möglichst auch dann fertigstellen. Damit meine ich
+dass man den Auftrag anfangen soll und dann nichts dazwischenkommen darf/soll, damit auch die Aufgabe gemäß ohne späteren Stress abgeschlossen werden kann.
+Ich habe mich auch viel ablenken lassen, dass muss ich unbedingt verbessern. 
+Dazu muss ich auch sagen das ich unseren ersten Fernunterricht besser fand, weil ich wirklich ganz flexibel war und auf mich selbst konzentrieren konnte, ohne dass ich irgendwelche anderen Schulkammeraden gehört
+habe. Aber trotzdem habe ich sie schon ein bisschen vermisst.(Optional)(97 Wörter)
+
+
+
+
+
+
 # Ablauf den ich für mich gemacht habe
 
-- Stoppuhr
+- Stoppuhr:
   Ich wurde vom Modul 319 inspiriert und von verschiedenen Quellen.
 
-- Taschenrechner
+- Taschenrechner:
   Ich wurde von David inspiriert, den er hat einen Taschenrechner in Console-App gemacht und ich wollte dies auf meiner Art in Forms-App umsetzen.
 
-- Andere Angaben
-  Öffters von Youtube inspiriert weil ich hin und wieder auf Verdiedene Codes, Idee usw. gekommen bin.
+- Andere Angaben:
+  Öfters von Youtube inspiriert weil ich hin und wieder auf Verdiedene Codes, Idee usw. gekommen bin.
 
 
 
