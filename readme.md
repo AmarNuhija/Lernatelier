@@ -61,12 +61,18 @@ weil ich so lange am Modul 431 hang. Doch jetzt werde ich wohl hoffentlich keine
 
 # 22.09.23
 
-In diesem Quartal habe ich ganz schlicht mit der Stoppuhr angefangen. Ich wurde durch das Modul 319 inspiriert, weil wir dort einen PAP als Stoppuhr machen mussten.
-Diese Idee fand ich sehr gut und auch spannend weil ich es selber auch no nie gemacht habe und selber einmal diese Erfahrung haben wollte.
-Mein nächster Plan war der Taschenrechner. Der Taschenrechner war ein kleines Stück schwieriger, weil es am Anfang mit dem dividieren nicht geklappt hat. Heute habe ich es immer noch nicht hingekriegt 
-zu lösen aber es werden wenigstens Resultate ausgegeben, nur noch nicht mit Kommazahlen. Hochzahlen konnte ich auch nicht mit einbeziehen weil ich es garnicht verstanden habe.
-Sonst gehören noch die einzelnen Aufträge dazu, die wir in M319 hatten.
+In diesem Quartal habe ich schlicht mit der Stoppuhr angefangen. Ich wurde durch das Modul 319 inspiriert, weil wir dort einen PAP als Stoppuhr machen mussten. Diese Idee fand ich sehr gut und auch spannend, weil ich es selbst auch noch nie gemacht habe und selber einmal diese Erfahrung haben wollte. Mein nächster Plan war der Taschenrechner. Der Taschenrechner war ein kleines Stück schwieriger, weil es am Anfang mit dem Dividieren nicht funktioniert hat. Heute habe ich es immer noch nicht hingekriegt zu lösen aber es werden wenigstens Resultate ausgegeben, nur noch nicht mit Kommazahlen. Hochzahlen konnte ich auch nicht mit einbeziehen, weil ich es gar nicht verstanden habe. Sonst gehören noch die einzelnen Aufträge dazu, die wir in M319 hatten.(121 Wörter)
 
+# Ablauf den ich für mich gemacht habe
+
+- Stoppuhr
+  Ich wurde vom Modul 319 inspiriert und von verschiedenen Quellen.
+
+- Taschenrechner
+  Ich wurde von David inspiriert, den er hat einen Taschenrechner in Console-App gemacht und ich wollte dies auf meiner Art in Forms-App umsetzen.
+
+- Andere Angaben
+  Öffters von Youtube inspiriert weil ich hin und wieder auf Verdiedene Codes, Idee usw. gekommen bin.
 
 
 
