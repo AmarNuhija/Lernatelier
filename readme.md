@@ -57,6 +57,18 @@ weil ich so lange am Modul 431 hang. Doch jetzt werde ich wohl hoffentlich keine
 
 
 
+## Reflexion
+
+# 22.09.23
+
+In diesem Quartal habe ich ganz schlicht mit der Stoppuhr angefangen. Ich wurde durch das Modul 319 inspiriert, weil wir dort einen PAP als Stoppuhr machen mussten.
+Diese Idee fand ich sehr gut und auch spannend weil ich es selber auch no nie gemacht habe und selber einmal diese Erfahrung haben wollte.
+Mein nächster Plan war der Taschenrechner. Der Taschenrechner war ein kleines Stück schwieriger, weil es am Anfang mit dem dividieren nicht geklappt hat. Heute habe ich es immer noch nicht hingekriegt 
+zu lösen aber es werden wenigstens Resultate ausgegeben, nur noch nicht mit Kommazahlen. Hochzahlen konnte ich auch nicht mit einbeziehen weil ich es garnicht verstanden habe.
+Sonst gehören noch die einzelnen Aufträge dazu, die wir in M319 hatten.
+
+
+
 
 
 
